@@ -62,9 +62,6 @@ High-level security layers:
 4. Application-layer security (Apache / PHP)
 5. Logging, monitoring, and alerting
 
-Client → Cloudflare → Firewall → Web Server → Application 
-
-
 Each layer is designed to fail independently without exposing the next.
 
 ---
